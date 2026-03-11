@@ -28,7 +28,7 @@ Check before reporting:
 Reporting bugs:
 
  * Please investigate if is the bug is really caused by the library. Isolate the issue: what's the minimal code to reproduce the bug?
- * Bonus steps to gain extra karma points: once you isolated and identified the issue, you can prepare an push request. Submit an unit test causing the bug, and ideally a fix for the bug.
+ * Bonus steps to gain extra karma points: once you isolated and identified the issue, you can prepare a pull request. Submit a unit test causing the bug, and ideally a fix for the bug.
 
 Requesting features:
 
